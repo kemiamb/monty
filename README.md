@@ -71,11 +71,3 @@ vagrant@vagrant-ubuntu-trusty-64:~$ ./monty ./bytecodes/000.m
 0
 vagrant@vagrant-ubuntu-trusty-64:~$
 ```
-## Other files
-
-- monty.h - *Header file; Contains function, struct and global variable declarations*
-- bytecodes - *A directory containing test files used while making this program*
-
-## Bugs
-No bugs found yet
-   
